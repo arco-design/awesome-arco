@@ -24,6 +24,7 @@ English | [中文](./README_zh-CN.md)
 * [IconBox](https://arco.design/iconbox) - Provide a standardized and unified high-quality business icon library.
 * [Palette](https://arco.design/palette) - Help designers and developers debug colors online and explore Arco color algorithms.
 * [Twin.Arco](https://twin-arco.netlify.app/) - Easily use Arco theme in Windi CSS or TailwindCSS
+* [Arco starter](https://github.com/renyuanz/arco-design-vite-react-ts-starter) - A minimal arco starter with Vite.js, React.js and TypeScript
 
 ## Plugins
 

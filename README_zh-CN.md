@@ -25,6 +25,7 @@
 * [IconBox 图标平台](https://arco.design/iconbox) - 提供规范化、统一化的高质量业务图标库。
 * [Palette 在线调色板](https://arco.design/palette) - 帮助设计师和开发者在线调试颜色，探索 Arco 色彩算法。
 * [Twin.Arco](https://twin-arco.netlify.app/) - 在 Windi CSS 或 TailwindCSS 中愉快使用 arco design 配色。
+* [Arco 启动器](https://github.com/renyuanz/arco-design-vite-react-ts-starter) - 一个支持 Vite.js、React.js 和 TypeScript 的轻量级 Arco 启动器
 
 ## 插件
 
