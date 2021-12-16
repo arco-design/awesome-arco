@@ -21,6 +21,7 @@ English | [中文](./README_zh-CN.md)
 * [DesignLab](https://arco.design/themes) - The online visual component style configuration platform helps users build personalized themes, helps users better manage different styles of theme configurations, and improves the efficiency of design and development collaboration.
 * [Material Market](https://arco.design/material) - Quickly develop and share customized components based on Arco scaffolding tools, realize decoupling and reuse of business modules, improve development efficiency, and promote team collaboration.
 * [Arco Pro React](https://arco.design/pro/) - Help users quickly build projects from 0 to 1, and support users to freely choose common page templates.
+* [Arco Pro Vue](https://arco.naiveadmin.com) - Out of the box midstage front-end design solutions.
 * [IconBox](https://arco.design/iconbox) - Provide a standardized and unified high-quality business icon library.
 * [Palette](https://arco.design/palette) - Help designers and developers debug colors online and explore Arco color algorithms.
 * [Twin.Arco](https://twin-arco.netlify.app/) - Easily use Arco theme in Windi CSS or TailwindCSS.

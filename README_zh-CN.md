@@ -22,6 +22,7 @@
 * [风格配置平台](https://arco.design/themes) - 在线可视化组件风格配置平台，协助用户构建个性化主题，帮助用户更好地管理不同风格的主题配置，提高设计和开发的协作效率。
 * [物料市场](https://arco.design/material) - 基于 Arco 脚手架工具快速进行定制化的业务组件开发、共享，实现业务模块的解耦与复用，提升开发效率，促进团队协作。
 * [Arco Pro React 版](https://arco.design/pro/) - 帮助用户快速的从 0 到 1 搭建项目，支持用户自由选用常见页面模版。
+* [Arco Pro Vue 版](https://arco.naiveadmin.com) - 开箱即用的中台前端/设计解决方案。
 * [IconBox 图标平台](https://arco.design/iconbox) - 提供规范化、统一化的高质量业务图标库。
 * [Palette 在线调色板](https://arco.design/palette) - 帮助设计师和开发者在线调试颜色，探索 Arco 色彩算法。
 * [Twin.Arco](https://twin-arco.netlify.app/) - 在 Windi CSS 或 TailwindCSS 中愉快使用 arco design 配色。
