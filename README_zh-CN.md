@@ -47,6 +47,7 @@
 ## 物料
 
 * [Confetti Button](https://arco.design/material/detail/?name=arco-confetti) - 点击按钮发射五彩纸屑 🎉.
+* [Context Menu](https://arco.design/material/detail/?name=@arco-design/context-menu) - 右键打开菜单。
 
 ## 代码示例
 

@@ -24,7 +24,7 @@ English | [中文](./README_zh-CN.md)
 * [IconBox](https://arco.design/iconbox) - Provide a standardized and unified high-quality business icon library.
 * [Palette](https://arco.design/palette) - Help designers and developers debug colors online and explore Arco color algorithms.
 
-## Boilerplate / Template
+## Boilerplates
 
 * [Arco Pro React](https://github.com/arco-design/arco-design-pro) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design React.
 * [Arco Pro React](https://github.com/arco-design/arco-design-pro-vue) - About An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design Vue.
@@ -46,6 +46,7 @@ English | [中文](./README_zh-CN.md)
 ## Materials
 
 * [Confetti Button](https://arco.design/material/detail/?name=arco-confetti) - Click the button to fire the confetti 🎉.
+* [Context Menu](https://arco.design/material/detail/?name=@arco-design/context-menu) - Right click to open the context menu.
 
 ## Demos
 
