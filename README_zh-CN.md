@@ -1,6 +1,9 @@
-# awesome-arco
+# awesome-arco [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-汇总 ArcoDesign 相关资源～
+[<img src="https://avatars.githubusercontent.com/u/64576149?s=200&v=4" align="right" height="100">](http://lesscss.org/)
+
+> Arco Design 是由字节跳动 GIP UED 团队 和 架构前端团队联合推出的企业级设计系统。ArcoDesign 拥有系统的设计规范和资源，同时依据规范提供了丰富的原子组件，覆盖了 React、Vue、Mobile 等框架和方向。在原子组件基础上也提供了丰富的定制化工具，包括「[风格配置平台](https://arco.design/themes)」、「[物料平台等](https://arco.design/material)」，也提供了资源平台包括 「[IconBox](https://arco.design/iconbox)」、「[Arco Pro](https://pro.arco.design)」 最佳实践等。旨在帮助设计师与开发者解放双手、提升工作效率，更高效、高质量的打造符合业务规范的中后台应用。
+
 
 [English](./README.md) | 中文
 
