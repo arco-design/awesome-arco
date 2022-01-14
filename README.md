@@ -42,3 +42,14 @@ English | [中文](./README_zh-CN.md)
 ## Cli
 
 * [Arco Cli](https://github.com/arco-design/arco-cli) - Encapsulated material operation commands to help users quickly create materials and publish them to the Arco material market.
+
+## Materials
+
+* [Confetti Button](https://arco.design/material/detail/?name=arco-confetti) - Click the button to fire the confetti 🎉.
+
+## Demos
+
+* **[Table](https://arco.design/react/components/table)**
+  * [Controlled Filter and Sort](https://codesandbox.io/s/relaxed-herschel-ol574?file=/index.js)
+* **[DatePicker](https://arco.design/react/components/date-picker)**
+  * [Custom mouseenter and mouseleave events](https://codesandbox.io/s/suspicious-jepsen-s7h6m)
