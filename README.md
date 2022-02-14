@@ -33,13 +33,13 @@ English | [中文](./README_zh-CN.md)
 ### React
 
 * [Arco Pro React](https://github.com/arco-design/arco-design-pro) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design React.
-* [Duxravel](https://github.com/duxphp/duxravel) - An admin management development framework based on the Laravel framework and Arco Design Vue.
 * [arco-react-vite-starter](https://github.com/renyuanz/arco-design-vite-react-ts-starter) - A minimal arco starter with Vite.js, React.js and TypeScript.
 
 ### Vue
 
 * [Arco Pro Vue](https://github.com/arco-design/arco-design-pro-vue) - About An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design Vue.
 * [Arco Work](https://github.com/qingqingxuan/arco-work) - A beautiful and powerful admin template powered by Vue3 and ArcoDesign.
+* [Duxravel](https://github.com/duxphp/duxravel) - An admin management development framework based on the Laravel framework and Arco Design Vue.
 
 ## Plugins
 
