@@ -33,6 +33,7 @@
 ### React
 
 * [Arco Pro React](https://github.com/arco-design/arco-design-pro) - 基于 Arco Design React 组件库的开箱即用的中后台前端解决方案。Admin 中后台管理页面，创新的多架构方案。
+* [Duxravel](https://github.com/duxphp/duxravel) - 基于 Laravel 框架和 Arco Design Vue 开发的后台管理开发框架。
 * [Arco vite 启动器](https://github.com/renyuanz/arco-design-vite-react-ts-starter) - 一个支持 Vite.js、React.js 和 TypeScript 的轻量级 Arco 启动器。
 
 ### Vue
