@@ -34,6 +34,7 @@ English | [中文](./README_zh-CN.md)
 
 * [Arco Pro React](https://github.com/arco-design/arco-design-pro) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design React.
 * [arco-react-vite-starter](https://github.com/renyuanz/arco-design-vite-react-ts-starter) - A minimal arco starter with Vite.js, React.js and TypeScript.
+* [arco-next-starter](https://github.com/jiahao-c/arco-next-starter) A minimal starter boilerplate with Arco Design, Nextjs, and TypeScript.
 
 ### Vue
 
