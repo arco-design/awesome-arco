@@ -64,6 +64,7 @@ English | [中文](./README_zh-CN.md)
 
 * [Confetti Button](https://arco.design/material/detail/?name=arco-confetti) - Click the button to fire the confetti 🎉.
 * [Context Menu](https://arco.design/material/detail/?name=@arco-design/context-menu) - Right click to open the context menu.
+* [Json Schema Editor](https://arco.design/material/detail/?name=@quiet-front-end/json-schema-editor-arco) - A JsonSchema visual editor.
 
 ## Demos
 

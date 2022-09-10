@@ -65,6 +65,7 @@
 
 * [Confetti Button](https://arco.design/material/detail/?name=arco-confetti) - 点击按钮发射五彩纸屑 🎉.
 * [Context Menu](https://arco.design/material/detail/?name=@arco-design/context-menu) - 右键打开菜单。
+* [Json Schema Editor](https://arco.design/material/detail/?name=@quiet-front-end/json-schema-editor-arco) - Json Schema 可视化编辑器。
 
 ## 代码示例
 
