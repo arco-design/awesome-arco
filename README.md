@@ -28,6 +28,7 @@ English | [中文](./README_zh-CN.md)
 * [Arco Pro](https://pro.arco.design/) - Help users quickly build projects from 0 to 1, and support users to freely choose common page templates.
 * [IconBox](https://arco.design/iconbox) - Provide a standardized and unified high-quality business icon library.
 * [Palette](https://arco.design/palette) - Help designers and developers debug colors online and explore Arco color algorithms.
+* [Tushan](https://tushan.msgbyte.com/) - Build your admin system in 5 minutes.
 
 ## Boilerplates
 
