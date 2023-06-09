@@ -28,6 +28,7 @@
 * [Arco Pro React 版](https://pro.arco.design/) - 帮助用户快速的从 0 到 1 搭建项目，支持用户自由选用常见页面模版。
 * [IconBox 图标平台](https://arco.design/iconbox) - 提供规范化、统一化的高质量业务图标库。
 * [Palette 在线调色板](https://arco.design/palette) - 帮助设计师和开发者在线调试颜色，探索 Arco 色彩算法。
+* [Tushan](https://tushan.msgbyte.com/) - 五分钟构建一个后台管理平台
 
 ## 模版
 
