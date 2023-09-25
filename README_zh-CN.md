@@ -44,6 +44,7 @@
 * [Arco Work](https://github.com/qingqingxuan/arco-work) - 采用 Vue3、Vite2、Typescript、Arco Design 编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用。
 * [Duxravel](https://github.com/duxphp/duxravel) - 基于 Laravel 框架和 Arco Design Vue 开发的后台管理开发框架。
 * [Arco Vue Playground](https://github.com/hehehai/arco-vue-playground) - 一个在线的 Arco Desgin Vue 编辑预览，在这里你可以使用 Vue 实例交互式的编辑、测试 Arco Design Vue 组件。
+* [Arco Uno Basic Template](https://github.com/lanseria/arco-uno-basic-template) - 一个用 Arco Design Vue 与 UnoCSS 搭建的简单项目模板。
 
 ## 插件
 

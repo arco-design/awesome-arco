@@ -44,6 +44,7 @@ English | [中文](./README_zh-CN.md)
 * [Arco Work](https://github.com/qingqingxuan/arco-work) - A beautiful and powerful admin template powered by Vue3 and ArcoDesign.
 * [Duxravel](https://github.com/duxphp/duxravel) - An admin management development framework based on the Laravel framework and Arco Design Vue.
 * [Arco Vue Playground](https://github.com/hehehai/arco-vue-playground) - An online Arco Desgin Vue playground, Here you can interactively play and test Arco Design Vue components with a fresh Vue.js instance.
+* [Arco Uno Basic Template](https://github.com/lanseria/arco-uno-basic-template) - An simple project template with Arco Design Vue and UnoCSS.
 
 ## Plugins
 
