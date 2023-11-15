@@ -41,6 +41,7 @@ English | [中文](./README_zh-CN.md)
 ### Vue
 
 * [Arco Pro Vue](https://github.com/arco-design/arco-design-pro-vue) - About An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design Vue.
+* [Arc Pro Vue Vitesse](https://github.com/sukbearai/dcy-admin.git) - ⚡️⚡️Middle and Back-end Template based on Vitesse and Arco Design Pro。
 * [Arco Work](https://github.com/qingqingxuan/arco-work) - A beautiful and powerful admin template powered by Vue3 and ArcoDesign.
 * [Duxravel](https://github.com/duxphp/duxravel) - An admin management development framework based on the Laravel framework and Arco Design Vue.
 * [Arco Vue Playground](https://github.com/hehehai/arco-vue-playground) - An online Arco Desgin Vue playground, Here you can interactively play and test Arco Design Vue components with a fresh Vue.js instance.

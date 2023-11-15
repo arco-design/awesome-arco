@@ -41,6 +41,7 @@
 ### Vue
 
 * [Arco Pro Vue](https://github.com/arco-design/arco-design-pro-vue) - 基于 Arco Design Vue 组件库的开箱即用的中后台前端解决方案。Admin 中后台管理页面，创新的多架构方案。
+* [Arc Pro Vue Vitesse](https://github.com/sukbearai/dcy-admin.git)- ⚡️⚡️基于vitesse和arco design pro的中后台模板。
 * [Arco Work](https://github.com/qingqingxuan/arco-work) - 采用 Vue3、Vite2、Typescript、Arco Design 编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用。
 * [Duxravel](https://github.com/duxphp/duxravel) - 基于 Laravel 框架和 Arco Design Vue 开发的后台管理开发框架。
 * [Arco Vue Playground](https://github.com/hehehai/arco-vue-playground) - 一个在线的 Arco Desgin Vue 编辑预览，在这里你可以使用 Vue 实例交互式的编辑、测试 Arco Design Vue 组件。
